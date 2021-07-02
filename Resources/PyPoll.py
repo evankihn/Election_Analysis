@@ -1,10 +1,3 @@
-# The data we need to retrieve
-#1. The total number of votes cast 
-#2. A complete list of canidates who recieved votes
-#3. The percentage of votes each canidate won
-#4. The total number of votes each canidate won
-#5. The winner of the election based on popular vote
-
 import csv
 import os
 # Assign a variable for the file to load and the path.
